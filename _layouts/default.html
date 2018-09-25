@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>GoodFORM &mdash; Free and Open Redis Modules</title>
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="/">GoodFORM</a></h1>
+        <p>Free and Open Redis Modules</p>
+        <a href="/">
+          <img src="{{ "/assets/img/logo.png?" | append: site.github.build_revision | relative_url }}" alt="GoodFORM: Free and Open Redis Modules" />
+        </a>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+      </footer>
+    </div>
+  </body>
+</html>
