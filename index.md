@@ -25,3 +25,4 @@ FIXME
  * The Register: [Redis has a license to kill: Open-source database maker takes some code proprietary](https://www.theregister.co.uk/2018/08/23/redis_database_license_change/)
  * TechRepublic: [Why Redis Labs made a huge mistake when it changed its open source licensing strategy](https://www.techrepublic.com/article/why-redis-labs-made-a-huge-mistake-when-it-changed-its-open-source-licensing-strategy/)
  * Drew DeVault: [The Commons Clause will destroy open source](https://drewdevault.com/2018/08/22/Commons-clause-will-destroy-open-source.html)
+ * [Redis](https://redis.io): [Remove Commons Clause modules (#984)](https://github.com/antirez/redis-doc/pull/984)
