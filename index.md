@@ -4,15 +4,17 @@ layout: default
 
 # What is this?
 
-With the [recent licensing changes](https://sfconservancy.org/blog/2018/aug/22/commons-clause/) to several [Redis Labs modules](https://redislabs.com/community/licenses/) making them no longer free and open source, GNU/Linux distributions like [Debian](https://www.debian.org/social_contract#guidelines) and [Fedora](https://fedoraproject.org/wiki/Licensing) are no longer able to ship Redis Labs' version of the affected modules to our users.
+With the [recent licensing changes](https://sfconservancy.org/blog/2018/aug/22/commons-clause/) to several [Redis Labs modules](https://redislabs.com/community/licenses/) making them no longer free and open source, GNU/Linux distributions such as [Debian](https://www.debian.org/social_contract#guidelines) and [Fedora](https://fedoraproject.org/wiki/Licensing) are no longer able to ship Redis Labs' version of the affected modules to their users.
 
-As a result we have begun working together to create a [set of module repositories](https://github.com/goodform) forked from prior to the license change. We will maintain changes to these modules under their original open source licenses - applying only free and open fixes and updates.
+As a result we have begun working together to create [a set of module repositories](https://github.com/goodform) forked from prior to the license change. We will maintain changes to these modules under their original open source licenses, applying only free and open fixes and updates.
 
 We are committed to making these available under an open source license permanently, and welcome community involvement.
 
 ## How can I help?
 
-FIXME
+1. Contribute to [our GitHub repositories]({{ site.github_url }}).
+
+1. Share this page, for example by [tweeting a link to this page](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgoodformcode.com%2F&text=GoodFORM%3A%20Free%20and%20open%20Redis%20modules&hashtags=redis).
 
 ## Who is involved?
 
