@@ -11,6 +11,22 @@
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    <meta name="twitter:site" content="@lolamby">
+    <meta name="twitter:creator" content="@lolamby">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:card" content="summary">
+
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:title" content="{{ site.title }}" />
+
+    <meta property="og:image" content="{{ "/assets/img/logo.png?" | append: site.github.build_revision | absolute_url }}" />
+    <meta property="og:image:width" content="460" />
+    <meta property="og:image:height" content="246" />
   </head>
   <body>
     <a href="{{ site.github_url }}"><img style="position: absolute; top: 0; left: 0; border: 0;" src="{{ "/assets/img/github.png?" | append: site.github.build_revision }}" alt="Fork me on GitHub"></a>
