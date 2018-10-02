@@ -1,3 +1,8 @@
+markdown: kramdown
+
 url: "https://goodformcode.com/"
 baseurl: "/"
-markdown: kramdown
+github_url: "https://github.com/GoodFORM"
+
+title: "GoodFORM: Free and Open Redis Modules"
+description: "Free open/source modules for the Redis key/value database server."
