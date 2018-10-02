@@ -5,4 +5,5 @@ baseurl: "/"
 github_url: "https://github.com/GoodFORM"
 
 title: "GoodFORM: Free and Open Redis Modules"
+short_title: "Free and Open Redis modules"
 description: "Free and Open modules for the Redis key/value database server."
