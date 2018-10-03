@@ -274,3 +274,24 @@ footer {
     color:#444;
   }
 }
+
+.github-fork img {
+  top: 0;
+  left: 0;
+  border: 0;
+  display: block;
+  position: absolute;
+}
+
+header img {
+  padding-bottom: 20px;
+}
+
+@media print, screen and (max-width: 960px) {
+  .github-fork img {
+    display: none;
+  }
+  header img {
+    max-height: 50px;
+  }
+}
