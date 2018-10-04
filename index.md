@@ -4,7 +4,7 @@ layout: default
 
 # What is this?
 
-With the [recent licensing changes](https://sfconservancy.org/blog/2018/aug/22/commons-clause/) to several [Redis Labs modules](https://redislabs.com/community/licenses/) making them no longer free and open source, GNU/Linux distributions such as [Debian](https://www.debian.org/social_contract#guidelines) and [Fedora](https://fedoraproject.org/wiki/Licensing) are no longer able to ship Redis Labs' version of the affected modules to their users.
+With the [recent licensing changes](https://sfconservancy.org/blog/2018/aug/22/commons-clause/) to several [Redis Labs modules](https://redislabs.com/community/licenses/) making them no longer free and open source, GNU/Linux distributions such as [Debian](https://www.debian.org/social_contract#guidelines) and [Fedora](https://fedoraproject.org/wiki/Licensing) are no longer able to ship Redis Labs' versions of the affected modules to their users.
 
 As a result we have begun working together to create [a set of module repositories](https://github.com/goodform) forked from prior to the license change. We will maintain changes to these modules under their original open source licenses, applying only free and open fixes and updates.
 
