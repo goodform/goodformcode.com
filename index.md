@@ -23,6 +23,7 @@ We are committed to making these available under an open source license permanen
 
 ## Links
 
+ * ZDNet: [Redis Labs and Common Clause attacked where it hurts](https://www.zdnet.com/article/redis-labs-and-common-clause-attacked-where-it-hurts-with-open-source-code)
  * LWN.net: [Redis modules and the Commons Clause](https://lwn.net/Articles/763179/)
  * The Register: [Redis has a license to kill: Open-source database maker takes some code proprietary](https://www.theregister.co.uk/2018/08/23/redis_database_license_change/)
  * TechRepublic: [Why Redis Labs made a huge mistake when it changed its open source licensing strategy](https://www.techrepublic.com/article/why-redis-labs-made-a-huge-mistake-when-it-changed-its-open-source-licensing-strategy/)
