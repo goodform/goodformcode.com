@@ -40,3 +40,4 @@ Please see the following links:
  * Drew DeVault: [The Commons Clause will destroy open source](https://drewdevault.com/2018/08/22/Commons-clause-will-destroy-open-source.html)
  * [Redis](https://redis.io): [Remove Commons Clause modules (#984)](https://github.com/antirez/redis-doc/pull/984)
  * iTWire: [Debian dev forks Redis modules that are under Commons Clause licence](https://www.itwire.com/open-source/84888-debian-leader-forks-redis-modules-that-are-under-commons-clause-licence.html)
+ * Late Night Linux Podcast: [Episode 48](https://latenightlinux.com/late-night-linux-episode-48/)
