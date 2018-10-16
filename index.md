@@ -21,6 +21,14 @@ We are committed to making these available under an open source license permanen
  * [Chris Lamb](https://chris-lamb.co.uk) &lt;lamby@debian.org&gt;<br>
  * Nathan Scott &lt;nathans@fedoraproject.org&gt;
 
+## What about security updates?
+
+It is conceivable that reimplementing or merging security-related fixes that are now released solely under the "Commons Clause" license could be problematic.
+
+However, in our experience the vast majority of security fixes are trivial enough to be not subject to copyright law (eg. off-by-one-errors, calls to sanitise user input correctly, etc.). In contrast, fixes that are highly invasive (SPECTRE/Meltdown mitigation or the recent issues around various algorithms in GnuPG) which would be subject to copyright are relatively rare in comparison.
+
+One exception could be the testcases to patches which are clearly of value in the security production cycle to prevent future regressions and to ensure you are actually fixing the issue at hand.
+
 ## How can I find out more?
 
 Please see the following links:
