@@ -21,7 +21,9 @@ We are committed to making these available under an open source license permanen
  * [Chris Lamb](https://chris-lamb.co.uk) &lt;lamby@debian.org&gt;<br>
  * Nathan Scott &lt;nathans@fedoraproject.org&gt;
 
-## Links
+## How can I find out more?
+
+Please see the following links:
 
  * ZDNet: [Redis Labs and Common Clause attacked where it hurts](https://www.zdnet.com/article/redis-labs-and-common-clause-attacked-where-it-hurts-with-open-source-code)
  * LWN.net: [Redis modules and the Commons Clause](https://lwn.net/Articles/763179/)
