@@ -14,7 +14,7 @@ We are committed to making these available under an open source license permanen
 
 1. Contribute to [our GitHub repositories]({{ site.github_url }}).
 
-1. Share this page, for example by [tweeting a link to this page](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgoodformcode.com%2F&text=GoodFORM%3A%20Free%20and%20open%20Redis%20modules&hashtags=redis).
+1. Share this page and spread the word about the "Commons Clause" more generally, for example by [tweeting a link to this page](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgoodformcode.com%2F&text=GoodFORM%3A%20Free%20and%20open%20Redis%20modules&hashtags=redis).
 
 ## Who is involved?
 
