@@ -8,7 +8,7 @@ With the [recent licensing changes](https://sfconservancy.org/blog/2018/aug/22/c
 
 As a result we have begun working together to create [a set of module repositories](https://github.com/goodform) forked from prior to the license change. We will maintain changes to these modules under their original open source licenses, applying only free and open fixes and updates.
 
-We are committed to making these available under an open source license permanently, and welcome community involvement.
+We are committed to making these available under an open source license permanently and welcome community involvement.
 
 ## How can I help?
 
